@@ -60,7 +60,8 @@ sudo systemctl start docker
 sudo systemctl enable docker
 ```
 
-> Docker 라이선스  
+> Docker 라이선스
+
 **Docker Desktop**(UI 제공)은 비상업적 목적으로만 무료로 사용가능, **Docker CLI**(커맨드라인)은 무료 및 오픈소스이다. Docker Engine은 Apache 2.0 라이선스에 따라 무료 및 오픈소스로 제공됨  
  
 # 2. 컨테이너별 배포 방법
